@@ -1,0 +1,1 @@
+[{"config_name":"Debug","exclude_files":["cubemx/Src/adc.c","cubemx/Src/gpio.c","cubemx/Src/dma.c","cubemx/Src/spi.c","cubemx/Src/tim.c"]}]
